@@ -1,0 +1,10 @@
+Llama-3.2-3B-Instruct
+llama_b7083_bin
+output_sft
+ephemeral
+.cache
+.venv
+llama.cpp
+llama-b7083-bin-ubuntu-x64.zip
+gguf_converted
+
